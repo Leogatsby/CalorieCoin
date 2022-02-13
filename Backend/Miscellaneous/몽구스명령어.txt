@@ -1,0 +1,11 @@
+
+// await Wallet.where('user').equals(req.params.userId)
+
+// .select("필드명")
+
+// populate("참고형 필드명") 이거하면 참고형에 있는 데이터가 쭉 펴진다.
+
+//https://www.youtube.com/watch?v=DZBGEVgL2eE
+
+
+//.count 명령어 기반으로 승 무 패 나타내게 하자
